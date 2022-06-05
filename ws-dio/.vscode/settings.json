@@ -1,0 +1,8 @@
+{
+    "editor.linkedEditing": true,
+    "notebook.output.textLineLimit": 30,
+    "editor.wordWrapColumn": 80,
+    "editor.wordWrap": "on",
+    "html.format.wrapLineLength": 50,
+    "diffEditor.wordWrap": "on"
+}
