@@ -5,7 +5,7 @@ body {
 
 .photo {
     border-radius: 50% 50% 35% 0;
-    border-radius: 50% 50% 50% 0;
+    border-radius: 10% 50% 50% 40%;
 }
 
 #title, .subtitle, .post_title {
@@ -44,6 +44,16 @@ a {
 
 .post_image {
     margin-bottom: 15px;
+}
+
+.contacts_list {
+    list-style-type: none;
+    padding-left: 15px;
+}
+
+.contacts_list li a {
+    color: blue;
+    text-decoration: none;
 }
 
 
